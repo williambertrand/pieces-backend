@@ -1,7 +1,6 @@
 class Tester < ApplicationRecord
 
     def index
-        @testers = Tester.all
     end
 
     def show

@@ -1,0 +1,2 @@
+module FeedLogicHelper
+end
